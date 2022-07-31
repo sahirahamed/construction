@@ -1,0 +1,94 @@
+.orange-session{
+    height:500px;
+    width:100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+.ours{
+
+height:50px;
+width:300px;
+border-bottom: 2px solid black;
+background-color:white;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding-bottom: 15px;
+margin-top: 50px;
+font-size: 30px;
+position: relative;
+
+
+
+
+
+}
+.offer{
+    height:30px;
+    width:150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+position: absolute;
+margin-top: 75px;
+font-size: 20px;
+background-color: white;
+
+}
+.orange-content{
+
+
+display: flex;
+flex-direction: row;
+margin-top: 50px;
+
+}
+.system{
+
+height:250px;
+width:250px;
+margin-left: 20px;
+border-radius: 150px;
+border:10px solid #F7B71E;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: 18px;
+font-weight: bolder;
+
+}
+.plans{
+
+height:200px;
+width:200px;
+border:2px solid #F7B71E;
+border-radius: 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+.plans:hover{
+color:white;
+background-color: #F7B71E;
+
+
+}
+.frame{
+
+height:50px;
+width:50px;
+
+}
+.frame:hover{
+
+    background-color: #F7B71E;
+
+    }

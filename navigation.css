@@ -1,0 +1,55 @@
+.white-div{
+
+    display: flex;
+    flex-direction: row;
+
+    background-color: white;
+    color:#333D40;
+    font-size: bolder;
+    font-size: 22px;
+    box-shadow: 2px 2px 2px 2x grey;
+    align-items: center;
+    margin-left: 100px;
+    /* border-bottom: 1px soild grey; */
+
+    }
+    .home{
+
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    height:80px;
+    width:100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:#333D40;
+    }
+    .homes{
+
+
+
+            border-right: 1px solid rgba(0, 0, 0, 0.1);
+            height:80px;
+            width:100px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding-left: 30px;
+            padding-right: 30px;
+    background-color: #F7B71E;
+    color:white;
+    position: relative;
+
+
+    }
+
+
+    .home:hover{
+
+    background-color: #F7B71E;
+    color:white;
+
+    }

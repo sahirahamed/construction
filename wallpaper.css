@@ -1,0 +1,89 @@
+.wallpaper-session{
+
+    height:500px;
+    width:100%;
+    background-image: url(images/project-wallpaper.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    }
+    .wall-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    margin-top: 100px;
+
+    }
+    .company{
+
+    color:white;
+    font-size: 65px;
+
+    }
+    .small{
+    height:60px;
+    width:400px;
+    border:1px solid #d4d3d3fb;
+    color:#FFFFFF;
+    margin-top: 20px;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+    .houses{
+
+    color:#FFFFFF;
+    background-color:#9C9C9C;
+    height:40px;
+    width:90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+    .buildings{
+
+    color:white;
+    background-color: #F7B71E;
+    height:40px;
+    width:100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    }
+    .zero{
+
+
+    display: flex;
+    flex-direction: row;
+
+    }
+    .end{
+    height:140px;
+    width:140px;
+    background-color: #00000026;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 20px;
+
+    }
+    .purple-div{
+
+display: none;
+
+    }

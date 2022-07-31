@@ -1,0 +1,136 @@
+.posts{
+
+
+    display: flex;
+    flex-direction: column;
+    height:500px;
+    width:100%;
+    margin-top: 500px;
+    align-items: center;
+
+    }
+    .posters{
+
+    display: flex;
+    flex-direction: row;
+
+
+    }
+
+    .dates{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+
+
+    }
+    .november{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    height:600px;
+    width:350px;
+    background-color:#F2EDED;
+    position: relative;
+    margin-left: 30px;
+    border:1px solid gainsboro;
+    }
+    .calender{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+
+    }
+    .months{
+
+    height:60px;
+    width:60px;
+
+    }
+    .blog:hover{
+        transition: all 1s ease-in;
+    transform: scale(1.1);
+    width:100%;
+
+
+    }
+
+    .month{
+        height:60px;
+
+    }
+    .star{
+
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height:200px;
+    width:280px;
+    font-size: 18px;
+    margin-left: 30px;
+    line-height:1.5em;
+    margin-top: 20px;
+    position: absolute;
+    top:300px;
+    }
+    .start{
+
+    display: none;
+
+    }
+    .star-contents{
+    display: none;
+
+    }
+    .globals{
+
+
+        display: none;
+    }
+
+    .star-content{
+
+    margin-left: 20px;
+    margin-top: 20px;
+    color:#9C9C9C;
+
+
+    }
+    .global{
+
+    color:#000000;
+    font-size: 20px;
+
+    }
+    .global:hover{
+    color:#F7B71E;
+
+    }
+    .star-content:hover .global{
+
+    color:#F7B71E;
+    }
+    .star:hover .global{
+
+    color:#F7B71E;
+
+    }
+    .november:hover {
+    background-color:#F7B71E;
+
+    }
+    .november:hover .global{
+    color: #F7B71E;
+
+    }
+    .november:hover .calender{
+
+    background-color:white;
+
+
+    }
