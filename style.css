@@ -2690,7 +2690,7 @@ margin-top: -12px;
                 display: flex;
                 flex-direction: column;
                 margin-top: 50px;
-                height:500px;
+                height:550px;
                 width:300px;
                 background-color:#F2EDED;
                 position: relative;
@@ -2749,7 +2749,7 @@ width:300px;
             display: flex;
             flex-direction: column;
             background-color:white;
-            height:170px;
+            height:180px;
             width:270px;
             font-size: 12px;
             margin-left: 20px;
@@ -2762,7 +2762,7 @@ width:300px;
                 }
                 .star-contents{
                 display: block;
-                height:200px;
+                height:180px;
 
                 }
                 .globals{
@@ -3474,6 +3474,132 @@ display:block;
 }
 @media(max-width:350px){
 
+    .november{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        height:550px;
+        width:300px;
+        background-color:#F2EDED;
+        position: relative;
+        margin-left: 30px;
+        border:1px solid gainsboro;
+        }
+        .calender{
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        background-color: white;
+
+        }
+        .blog{
+
+width:300px;
+
+        }
+        .months{
+
+        height:60px;
+        width:60px;
+
+        }
+        .blog:hover{
+            transition: all 1s ease-in;
+        transform: scale(1.1);
+        width:100%;
+
+
+        }
+
+        .month{
+            height:60px;
+
+        }
+        .star{
+
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        height:200px;
+        width:280px;
+        font-size: 18px;
+        margin-left: 30px;
+        line-height:1.5em;
+        margin-top: 20px;
+        position: absolute;
+        top:300px;
+        display: none;
+        }
+        .start{
+
+
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    height:180px;
+    width:270px;
+    font-size: 12px;
+    margin-left: 20px;
+    line-height:2em;
+    margin-top: 20px;
+    position: absolute;
+    top:310px;
+    display: block;
+
+        }
+        .star-contents{
+        display: block;
+        height:180px;
+
+        }
+        .globals{
+
+
+            display: block;
+        }
+
+        .star-content{
+
+        margin-left: 20px;
+        margin-top: 20px;
+        color:#9C9C9C;
+display: none;
+
+        }
+        .global{
+
+        color:#000000;
+        font-size: 20px;
+
+        }
+        .global:hover{
+        color:#F7B71E;
+
+        }
+        .star-content:hover .global{
+
+        color:#F7B71E;
+        }
+        .star:hover .global{
+
+        color:#F7B71E;
+
+        }
+        .november:hover {
+        background-color:#F7B71E;
+
+        }
+        .november:hover .global{
+        color: #F7B71E;
+
+        }
+        .november:hover .calender{
+
+        background-color:white;
+
+
+        }
     .trucks{
         height:220px;
         width:100vw;
