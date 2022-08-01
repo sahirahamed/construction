@@ -2525,7 +2525,7 @@ top: 300px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bolder;
 margin-top: 30px;
     }
@@ -2749,7 +2749,7 @@ width:300px;
             display: flex;
             flex-direction: column;
             background-color:white;
-            height:150px;
+            height:170px;
             width:270px;
             font-size: 12px;
             margin-left: 20px;
@@ -3069,7 +3069,7 @@ margin-top: 0px;
                             display: flex;
                             flex-direction: column;
 
-                            height:345px;
+                            height:380px;
                             width:350px;
                             background-color:white;
                             border:1px solid grey;
@@ -3504,6 +3504,11 @@ display:block;
 top:0px;
 
         }
+        .system{
+
+font-size: 10px;
+
+        }
         .old{
         position: absolute;
         z-index: 1;
@@ -3675,9 +3680,9 @@ display: flex;
 
                 justify-items: center;
                 margin-left: 40px;
-                height:130px;
+                height:140px;
                 width:100vw;
-                font-size: 14px;
+                font-size: 15px;
                 margin-top: 20px;
                 background-color:rgba(255, 255, 255, 0.1);
                 display: block;
@@ -3720,8 +3725,8 @@ margin-left: 10px;
                 display: flex;
                 flex-direction: column;
 
-                height:345px;
-                width:450px;
+                height:380px;
+                width:340px;
                 background-color:white;
                 border:1px solid grey;
                 margin-top: 50px;
@@ -3917,7 +3922,7 @@ display: none;
                     flex-direction: row;
                     justify-content: center;
                     align-items: center;
-                    margin-top: 200px;
+                    margin-top: 250px;
 
                     }
                     .account{
@@ -4113,7 +4118,11 @@ display: none;
 @media (max-width:300px){
 
 
+.planner{
 
+font-size: 12px;
+
+}
 
     .trucks{
         height:220px;
@@ -4317,9 +4326,9 @@ display: flex;
 
                 justify-items: center;
                 margin-left: 40px;
-                height:140px;
+                height:150px;
                 width:100vw;
-                font-size: 14px;
+                font-size: 15px;
                 margin-top: 40px;
                 background-color:rgba(255, 255, 255, 0.1);
                 display: block;
@@ -4395,6 +4404,7 @@ font-size: 14px;
 
 
                 }
+
                 .basics{
 
                 height:35px;
