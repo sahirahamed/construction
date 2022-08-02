@@ -1,0 +1,222 @@
+@media (max-width:768px){
+
+
+
+
+    .white-div{
+
+    display: none;
+
+    }
+}
+@media (max-width:500px) {
+
+
+
+
+
+
+
+    .white-div{
+
+    display: none;
+
+    }
+
+
+    .purple-div{
+
+height:80px;
+width:100vw;
+background-color: #333D40;
+color:white;
+font-weight: bolder;
+display: block;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+    }
+    .selectoring{
+
+color:white;
+font-size: 25px;
+margin-left: 20px;
+
+    }
+    .classic:hover .bills{
+display:block;
+
+
+
+    }
+    .classical{
+
+
+     display: flex;
+flex-direction:row;
+justify-content: center;
+align-items: center;
+
+    }
+    .classic{
+
+
+display: flex;
+flex-direction:row;
+justify-content: center;
+align-items: center;
+position: relative;
+margin-top: 20px;
+color:white;
+
+
+    }
+    .services{
+
+font-size: larger;
+text-align: center;
+height:50px;
+top: 0px;
+
+
+    }
+    .service{
+background-color: #F7B71E;
+font-size: larger;
+text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+height:50px;
+margin-bottom: 5px;
+color:white;
+
+    }
+    .bills{
+
+position: absolute;
+top:40px;
+display: none;
+background-color: white;
+color:#293133;
+font-weight: bolder;
+flex-direction: column;
+align-items: center;
+z-index: 1;
+height:300px;
+width:100vw;
+
+padding-left:20px;
+padding-right: 20px;
+padding-bottom:20px;
+    }
+
+.classic:hover .wallpaper-session{
+top: 300px;
+
+}
+}
+@media (max-width:400px){
+    .white-div{
+
+        display: none;
+
+        }
+        .purple-div{
+
+    height:80px;
+    width:100vw;
+    background-color: #333D40;
+    color:white;
+    font-weight: bolder;
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+        }
+        .selectoring{
+
+    color:white;
+    font-size: 25px;
+    margin-left: 20px;
+
+        }
+        .classic:hover .bills{
+    display:block;
+
+
+
+        }
+        .classical{
+
+
+         display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+
+        }
+        .classic{
+
+
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 20px;
+    color:white;
+
+
+        }
+        .services{
+
+    font-size: larger;
+    text-align: center;
+    height:50px;
+    top: 0px;
+
+
+        }
+        .service{
+    background-color: #F7B71E;
+    font-size: larger;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+    margin-bottom: 5px;
+    color:white;
+
+        }
+        .bills{
+
+    position: absolute;
+    top:40px;
+    display: none;
+    background-color: white;
+    color:#293133;
+    font-weight: bolder;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+    height:300px;
+    width:100vw;
+
+    padding-left:20px;
+    padding-right: 20px;
+    padding-bottom:20px;
+        }
+
+    .classic:hover .wallpaper-session{
+    top: 300px;
+
+    }
+
+
+}

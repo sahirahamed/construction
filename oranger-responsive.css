@@ -1,0 +1,725 @@
+
+@media (max-width:768px){
+
+
+    .oranger-content{
+
+    display: flex;
+    flex-direction: column;
+
+    align-items:center;
+
+    }
+    .six{
+
+
+    color:#FFFFFF66;
+    margin-top: 5px;
+    font-size: 10px;
+
+    }
+    .orange{
+    border:1px solid orange;
+    height:20px;
+    width:20px;
+    margin-left: 1px;
+    }
+    .old:hover{
+    display: none;
+
+    }
+    .find{
+        height:20px;
+        width:20px;
+
+
+
+
+    }
+    .new{
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: 10px;
+
+    }
+
+        .oranger{
+
+            background-color: #F7B71E;
+            height:auto;
+            width:100vw;
+            margin-top: 100px;
+            color:white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+
+            }
+            .ourss{
+                height:50px;
+                width:300px;
+                border-bottom: 2px solid white;
+                background-color:#F7B71E;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                padding-bottom: 15px;
+                margin-top: 50px;
+                font-size: 30px;
+                position: relative;
+
+
+            }
+            .offering{
+
+
+                height:30px;
+                width:150px;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+            position: absolute;
+            margin-top: 75px;
+            font-size: 20px;
+            background-color: #F7B71E;
+
+            }
+            .evanto{
+
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height:160px;
+            width:160px;
+            border: 1px solid white;
+            border-radius: 100px;
+            margin-left: 10px;
+            margin-top: 30px;
+            }
+            .smith{
+
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+            margin-left: 20px;
+            font-size: 14px;
+
+            }
+            .downs{
+
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                margin-top: 20px;
+                margin-left: 10px;
+
+            }
+            .version{
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height:100px;
+            width:1200px;
+            font-size: 16px;
+            margin-top: 30px;
+            background-color:rgba(255, 255, 255, 0.1);
+            display: none;
+            }
+            .versions{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                justify-items: center;
+                margin-left: 40px;
+                height:75px;
+                width:100vw;
+                font-size: 16px;
+                margin-top: 30px;
+                background-color:rgba(255, 255, 255, 0.1);
+                display: block;
+                margin-left: 20px;
+                margin-bottom: 20px;
+
+
+            }
+            .gate{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 5px;
+margin-left: 10px;
+
+            }
+        }
+
+
+
+        @media (max-width:500px){
+
+            .oranger-content{
+
+            display: flex;
+            flex-direction: column;
+
+            align-items:center;
+
+            }
+            .six{
+
+
+            color:#FFFFFF66;
+            margin-top: 5px;
+            font-size: 12px;
+
+            }
+            .orange{
+            border:1px solid orange;
+            height:20px;
+            width:20px;
+            margin-left: 1px;
+            }
+            .old:hover{
+            display: none;
+
+            }
+            .find{
+                height:15px;
+                width:15px;
+
+
+
+
+            }
+            .new{
+
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px;
+            margin-top: 10px;
+
+            }
+
+                           .oranger{
+
+                        background-color: #F7B71E;
+                        height:auto;
+                        width:99vw;
+                        margin-top: 250px;
+                        color:white;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+
+
+                        }
+                        .ourss{
+                            height:50px;
+                            width:300px;
+                            border-bottom: 2px solid white;
+                            background-color:#F7B71E;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            padding-bottom: 15px;
+                            margin-top: 50px;
+                            font-size: 30px;
+                            position: relative;
+
+
+                        }
+                        .offering{
+
+
+                            height:30px;
+                            width:150px;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                        position: absolute;
+                        margin-top: 75px;
+                        font-size: 20px;
+                        background-color: #F7B71E;
+
+                        }
+                        .evanto{
+
+
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        height:160px;
+                        width:160px;
+                        border: 1px solid white;
+                        border-radius: 100px;
+                        margin-left: 10px;
+                        margin-top: 30px;
+                        }
+                        .smith{
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+                        align-items: center;
+                        margin-top: 20px;
+                        margin-left: 20px;
+                        font-size: 14px;
+
+                        }
+                        .downs{
+
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            margin-top: 20px;
+                            margin-left: 10px;
+
+                        }
+                        .version{
+
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        height:100px;
+                        width:1200px;
+                        font-size: 12px;
+                        margin-top: 30px;
+                        background-color:rgba(255, 255, 255, 0.1);
+                        display: none;
+                        }
+                        .versions{
+            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+
+                            justify-items: center;
+                            margin-left: 40px;
+                            height:75px;
+                            width:95vw;
+                            font-size: 14px;
+                            margin-top: 30px;
+                            background-color:rgba(255, 255, 255, 0.1);
+                            display: block;
+                            margin-left: 20px;
+                            margin-bottom: 20px;
+
+
+                        }
+                        .gate{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin-top: 5px;
+            margin-left: 10px;
+
+                        }
+
+                    }
+                    @media (max-width:400px) {
+                        .oranger-content{
+
+                            display: flex;
+                            flex-direction: column;
+
+                            align-items:center;
+
+                            }
+
+                    .oranger{
+
+                        background-color: #F7B71E;
+                        height:auto;
+                        width:99vw;
+                        margin-top: 500px;
+                        color:white;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+
+
+                        }
+                        .ourss{
+                            height:50px;
+                            width:300px;
+                            border-bottom: 2px solid white;
+                            background-color:#F7B71E;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            padding-bottom: 15px;
+                            margin-top: 50px;
+                            font-size: 25px;
+                            position: relative;
+
+
+                        }
+                        .offering{
+
+
+                            height:30px;
+                            width:150px;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                        position: absolute;
+                        margin-top: 75px;
+                        font-size: 20px;
+                        background-color: #F7B71E;
+
+                        }
+                        .evanto{
+
+
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        height:160px;
+                        width:160px;
+                        border: 1px solid white;
+                        border-radius: 100px;
+                        margin-left: 10px;
+                        margin-top: 30px;
+                        }
+                        .smith{
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+                        align-items: center;
+                        margin-top: 20px;
+                        margin-left: 20px;
+                        font-size: 14px;
+
+                        }
+                        .downs{
+
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            margin-top: 20px;
+                            margin-left: 10px;
+
+                        }
+                        .version{
+
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                        height:100px;
+                        width:1200px;
+                        font-size: 12px;
+                        margin-top: 30px;
+                        background-color:rgba(255, 255, 255, 0.1);
+                        display: none;
+                        }
+                        .versions{
+            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+
+                            justify-items: center;
+                            margin-left: 40px;
+                            height:80px;
+                            width:100vw;
+                            font-size: 12px;
+                            margin-top: 20px;
+                            background-color:rgba(255, 255, 255, 0.1);
+                            display: block;
+                            margin-left: 20px;
+                            margin-bottom: 20px;
+
+
+                        }
+                        .gate{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin-top: 5px;
+            margin-left: 10px;
+
+                        }
+
+                    }
+
+
+@media (max-width:350px) {
+    .oranger{
+
+        background-color: #F7B71E;
+        height:auto;
+        width:99vw;
+        margin-top: 300px;
+        color:white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+
+        }
+        .ourss{
+            height:50px;
+            width:300px;
+            border-bottom: 2px solid white;
+            background-color:#F7B71E;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding-bottom: 15px;
+            margin-top: 50px;
+            font-size: 25px;
+            position: relative;
+
+
+        }
+        .offering{
+
+
+            height:30px;
+            width:150px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        position: absolute;
+        margin-top: 75px;
+        font-size: 20px;
+        background-color: #F7B71E;
+
+        }
+        .evanto{
+
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height:160px;
+        width:160px;
+        border: 1px solid white;
+        border-radius: 100px;
+        margin-left: 10px;
+        margin-top: 30px;
+        }
+        .smith{
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 20px;
+        font-size: 14px;
+
+        }
+        .downs{
+
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+            margin-left: 10px;
+
+        }
+        .version{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height:100px;
+        width:1200px;
+        font-size: 12px;
+        margin-top: 30px;
+        background-color:rgba(255, 255, 255, 0.1);
+        display: none;
+        }
+        .versions{
+display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            justify-items: center;
+            margin-left: 40px;
+            height:140px;
+            width:100vw;
+            font-size: 15px;
+            margin-top: 20px;
+            background-color:rgba(255, 255, 255, 0.1);
+            display: block;
+            margin-left: 20px;
+            margin-bottom: 20px;
+
+
+        }
+        .gate{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 5px;
+margin-left: 10px;
+
+        }
+
+
+
+}
+
+
+@media (max-width:300px) {
+
+    .oranger{
+
+        background-color: #F7B71E;
+        height:700px;
+        width:99vw;
+        margin-top: 300px;
+        color:white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+
+        }
+        .ourss{
+            height:50px;
+            width:280px;
+            border-bottom: 2px solid white;
+            background-color:#F7B71E;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding-bottom: 15px;
+            margin-top: 50px;
+            font-size: 25px;
+            position: relative;
+
+
+        }
+        .offering{
+
+
+            height:30px;
+            width:150px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        position: absolute;
+        margin-top: 75px;
+        font-size: 20px;
+        background-color: #F7B71E;
+
+        }
+        .evanto{
+
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height:160px;
+        width:160px;
+        border: 1px solid white;
+        border-radius: 100px;
+        margin-left: 10px;
+        margin-top: 30px;
+        }
+        .smith{
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 20px;
+        font-size: 14px;
+
+        }
+        .downs{
+
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+            margin-left: 10px;
+
+        }
+        .version{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height:150px;
+        width:1200px;
+        font-size: 10px;
+        margin-top: 30px;
+        background-color:rgba(255, 255, 255, 0.1);
+        display: none;
+        }
+        .versions{
+display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            justify-items: center;
+            margin-left: 40px;
+            height:150px;
+            width:100vw;
+            font-size: 15px;
+            margin-top: 40px;
+            background-color:rgba(255, 255, 255, 0.1);
+            display: block;
+            margin-left: 20px;
+            margin-bottom: 20px;
+
+
+        }
+        .gate{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 5px;
+margin-left: 10px;
+
+        }
+
+
+
+}

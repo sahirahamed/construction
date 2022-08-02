@@ -1,0 +1,537 @@
+@media (max-width:768px){
+
+
+
+
+
+
+    .trucks{
+        height:300x;
+        width:100vw;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 10px;
+        margin-left: 10px;
+
+        }
+        .action{
+        height:100px;
+        width:180px;
+        background-color: yellow;
+        position: relative;
+
+
+
+
+        }
+        .goods{
+
+        height:150px;
+        width:220px;
+
+        }
+        .old{
+        position: absolute;
+        z-index: 1;
+        background-color: #9C9C9CD9;
+        height:70px;
+        width:220px;
+        top:70px;
+        display: flex;
+        flex-direction: row;
+        /* position: relative; */
+
+        }
+        .row{
+
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        left:130px;
+        top:15px;
+
+
+
+
+        }
+        .hospital{
+
+        color:white;
+        font-size: 10px;
+
+
+        }
+    }
+    @media (max-width:500px){
+
+        .trucks{
+            height:200px;
+            width:100vw;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-top: 10px;
+            margin-left: 10px;
+
+            }
+            .action{
+            height:120px;
+            width:140px;
+
+            position: relative;
+            display: flex;
+            flex-direction: column;
+
+
+
+
+            }
+            .goods{
+
+            height:120px;
+            width:140px;
+
+
+            }
+            .old{
+            position: absolute;
+            z-index: 1;
+            background-color: #9C9C9CD9;
+            height:120px;
+            width:140px;
+        top:0px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+
+             /* position: relative; */
+
+            }
+            .row{
+
+            display: flex;
+            flex-direction: row;
+            position: absolute;
+            left:70px;
+            top:95px;
+
+
+
+
+            }
+            .hospital{
+
+            color:white;
+            font-size: 15px;
+
+
+            }
+        }
+
+@media (max-width:400px){
+
+    .trucks{
+        height:240px;
+        width:100vw;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 10px;
+        margin-left: 10px;
+
+        }
+        .action{
+        height:120px;
+        width:120px;
+
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+
+
+        }
+        .goods{
+
+        height:120px;
+        width:120px;
+top:0px;
+
+        }
+        .old{
+        position: absolute;
+        z-index: 1;
+        background-color: #9C9C9CD9;
+        height:120px;
+        width:120px;
+    top:0px;
+    left:0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+         /* position: relative; */
+
+        }
+        .row{
+
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        left:50px;
+        top:75px;
+
+
+
+
+        }
+        .hospital{
+
+        color:white;
+        font-size: 15px;
+margin-left: 0px;
+margin-top: 0px;
+
+        }
+            .six{
+
+
+        color:#FFFFFF66;
+        margin-top: 5px;
+        font-size: 12px;
+
+        }
+        .six{
+
+
+            color:#FFFFFF66;
+            margin-top: 5px;
+            font-size: 12px;
+
+            }
+            .orange{
+            border:1px solid orange;
+            height:20px;
+            width:20px;
+            margin-left: 1px;
+            }
+            .old:hover{
+            display: none;
+
+            }
+            .find{
+                height:15px;
+                width:15px;
+
+
+
+
+            }
+            .new{
+
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px;
+            margin-top: 10px;
+
+            }
+
+
+                    .six{
+
+
+                    color:#FFFFFF66;
+
+                    font-size: 11px;
+
+                    }
+                    .orange{
+                    border:1px solid orange;
+                    height:20px;
+                    width:20px;
+                    margin-top:17px;
+                    }
+                    .old:hover{
+                    display: none;
+
+                    }
+                    .find{
+                        height:18px;
+                        width:18px;
+
+
+
+                    }
+                    .new{
+
+                    display: flex;
+                    flex-direction: column;
+                    margin-left: 5px;
+
+        margin-top: -12px;
+                    }
+
+
+
+
+
+
+
+
+                            .orange{
+                            border:1px solid orange;
+                            height:20px;
+                            width:20px;
+                            margin-left: 1px;
+                            }
+                            .old:hover{
+                            display: none;
+
+                            }
+                            .find{
+                                height:15px;
+                                width:15px;
+
+
+
+
+                            }
+                            .new{
+
+                            display: flex;
+                            flex-direction: column;
+                            margin-left: 10px;
+                            margin-top: 10px;
+
+                            }
+
+
+
+
+    }
+    @media(max-width:350px){
+
+
+        .trucks{
+            height:220px;
+            width:100vw;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-top: 10px;
+            margin-left: 10px;
+
+            }
+            .action{
+            height:120px;
+            width:105px;
+
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+
+
+
+            }
+            .goods{
+
+            height:120px;
+            width:105px;
+    top:0px;
+
+            }
+            .system{
+
+    font-size: 10px;
+
+            }
+            .old{
+            position: absolute;
+            z-index: 1;
+            background-color: #9C9C9CD9;
+            height:120px;
+            width:105px;
+        top:0px;
+        left:0px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+
+             /* position: relative; */
+
+            }
+            .row{
+
+            display: flex;
+            flex-direction: row;
+            position: absolute;
+            left:50px;
+            top:80px;
+
+
+
+
+            }
+            .hospital{
+
+            color:white;
+            font-size: 15px;
+    margin-left: 0px;
+    margin-top: 0px;
+
+            }
+                .six{
+
+
+            color:#FFFFFF66;
+            margin-top: 5px;
+            font-size: 12px;
+
+            }
+            .orange{
+                border:1px solid orange;
+                height:15px;
+                width:15px;
+                margin-left: 1px;
+
+                }
+                .old:hover{
+                display: none;
+
+                }
+                .find{
+                    height:15px;
+                    width:15px;
+
+
+
+
+                }
+                .new{
+
+                display: flex;
+                flex-direction: column;
+                margin-left: 10px;
+                margin-top: 10px;
+
+                }
+
+
+    }
+    @media (max-width:300px) {
+
+        .trucks{
+        height:220px;
+        width:100vw;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 10px;
+        margin-left: 10px;
+
+        }
+        .action{
+        height:120px;
+        width:90px;
+
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+
+
+        }
+        .goods{
+
+        height:120px;
+        width:90px;
+top:0px;
+
+        }
+        .old{
+        position: absolute;
+        z-index: 1;
+        background-color: #9C9C9CD9;
+        height:120px;
+        width:90px;
+    top:0px;
+    left:0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+         /* position: relative; */
+
+        }
+        .row{
+
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        left:50px;
+        top:75px;
+
+
+
+
+        }
+        .hospital{
+
+        color:white;
+        font-size: 15px;
+margin-left: 0px;
+margin-top: 0px;
+
+        }
+            .six{
+
+
+        color:#FFFFFF66;
+        margin-top: 5px;
+        font-size: 12px;
+
+        }
+
+        .orange{
+            border:1px solid orange;
+            height:15px;
+            width:15px;
+            margin-left: 1px;
+            }
+            .old:hover{
+            display: none;
+
+            }
+            .find{
+                height:15px;
+                width:15px;
+
+
+
+
+            }
+            .new{
+
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px;
+            margin-top: 10px;
+
+            }
+
+
+
+
+
+    }

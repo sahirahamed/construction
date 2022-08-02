@@ -1,0 +1,323 @@
+@media (max-width:768px){
+
+
+    .orange-session{
+        height:auto;
+        width:100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    }
+    .ours{
+
+    height:30px;
+    width:300px;
+    border-bottom: 2px solid black;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+    position: relative;
+
+
+
+
+
+    }
+    .offer{
+        height:30px;
+        width:150px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    position: absolute;
+    margin-top: 75px;
+    font-size: 12px;
+    background-color: white;
+
+    }
+    .orange-content{
+
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+
+    }
+    .system{
+
+    height:120px;
+    width:120px;
+    margin-left: 5px;
+    border-radius: 100px;
+    border:5px solid #F7B71E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: bolder;
+
+
+    }
+    .planner{
+
+    margin-top: 5px;
+
+    }
+    .plans{
+
+    height:100px;
+    width:100px;
+    border:2px solid #F7B71E;
+    border-radius: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    }
+    .plans:hover{
+    color:white;
+    background-color: #F7B71E;
+
+
+    }
+    .frame{
+
+    height:30px;
+    width:30px;
+
+    }
+    .frame:hover{
+
+        background-color: #F7B71E;
+
+        }
+
+
+
+    .schools{
+
+    display: none;
+
+    }
+
+}
+
+
+@media (max-width:500px){
+
+.orange-session{
+    height:1100px;
+    width:100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+.ours{
+
+height:50px;
+width:300px;
+border-bottom: 2px solid black;
+background-color:white;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding-bottom: 15px;
+margin-top: 50px;
+font-size: 30px;
+position: relative;
+
+
+
+
+
+}
+.offer{
+    height:30px;
+    width:150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+position: absolute;
+margin-top: 75px;
+font-size: 20px;
+background-color: white;
+
+}
+.orange-content{
+
+
+display: flex;
+flex-direction: column;
+margin-top: 50px;
+
+}
+.system{
+
+height:200px;
+width:200px;
+margin-left: 20px;
+border-radius: 150px;
+border:7px solid #F7B71E;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: 14px;
+font-weight: bolder;
+margin-top: 25px;
+
+}
+.plans{
+
+height:150px;
+width:150px;
+border:2px solid #F7B71E;
+border-radius: 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+.plans:hover{
+color:white;
+background-color: #F7B71E;
+
+
+}
+.frame{
+
+height:50px;
+width:50px;
+
+}
+
+.frame:hover{
+
+    background-color: #F7B71E;
+
+    }
+
+}
+@media (max-width:400px){
+    .orange-session{
+        height:900px;
+        width:100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    }
+    .ours{
+
+    height:50px;
+    width:300px;
+    border-bottom: 2px solid black;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
+    margin-top: 50px;
+    font-size: 24px;
+    position: relative;
+
+
+
+
+
+    }
+    .offer{
+        height:30px;
+        width:120px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    position: absolute;
+    margin-top: 75px;
+    font-size: 16px;
+    background-color: white;
+
+    }
+    .orange-content{
+
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+
+
+    }
+
+    .system{
+
+    height:150px;
+    width:150px;
+    margin-left: 20px;
+    border-radius: 100px;
+    border:6px solid #F7B71E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: bolder;
+margin-top: 30px;
+    }
+    .plans{
+
+    height:120px;
+    width:120px;
+    border:2px solid #F7B71E;
+    border-radius: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    }
+    .plans:hover{
+    color:white;
+    background-color: #F7B71E;
+
+
+    }
+    .frame{
+
+    height:50px;
+    width:50px;
+
+    }
+
+    .frame:hover{
+
+        background-color: #F7B71E;
+
+        }
+    }
+    @media (max-width:300px) {
+
+
+        .planner{
+
+            font-size: 12px;
+
+            }
+    }
